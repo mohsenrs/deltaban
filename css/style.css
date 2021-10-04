@@ -57,6 +57,9 @@ body {
   border-radius: 15px;
   position: relative;
   left: -5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
 }
 .search__btn i {
   text-align: center;
